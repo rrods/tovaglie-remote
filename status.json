@@ -1,1 +1,4 @@
-{"blocked":false,"message":""}
+{
+  "blocked": true,
+  "message": "Manutenzione"
+}

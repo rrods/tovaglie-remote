@@ -1,1 +1,5 @@
-{"version":"1.0.0","release_notes":"Versione iniziale"}
+{
+  "version": "1.7.3",
+  "release_notes": "",
+  "min_windows_version": "10"
+}
