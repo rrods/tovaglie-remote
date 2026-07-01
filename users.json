@@ -1,8 +1,9 @@
 {
   "enabled": [
-    "lele",
     "lcc"
   ],
-  "blocked": [],
-  "last_sync": "2026-07-01T15:03:45.621362"
+  "blocked": [
+    "lele"
+  ],
+  "last_sync": "2026-07-01T15:03:52.371124"
 }
