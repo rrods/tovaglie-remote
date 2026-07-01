@@ -1,8 +1,1 @@
-{
-  "enabled": [
-    "lele"
-  ],
-  "blocked": [],
-  "last_sync": "2026-07-01T14:55:50.929732",
-  "_source": "remote"
-}
+{"enabled":["test"],"blocked":[],"last_sync":"test"}
