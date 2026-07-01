@@ -1,9 +1,10 @@
 {
   "enabled": [
-    "lele",
+    "lele"
+  ],
+  "blocked": [
     "ook"
   ],
-  "blocked": [],
-  "last_sync": "2026-07-01T14:59:46.741976",
+  "last_sync": "2026-07-01T15:00:06.108826",
   "_source": "remote"
 }
