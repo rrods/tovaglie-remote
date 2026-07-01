@@ -2,9 +2,7 @@
   "enabled": [
     "lele"
   ],
-  "blocked": [
-    "easycompans"
-  ],
-  "last_sync": "2026-07-01T14:49:17.487843",
+  "blocked": [],
+  "last_sync": "2026-07-01T14:55:19.128068",
   "_source": "remote"
 }
