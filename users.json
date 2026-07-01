@@ -1,8 +1,11 @@
 {
   "enabled": [
-    "lele"
+    "lele",
+    "ook"
   ],
-  "blocked": [],
-  "last_sync": "2026-07-01T14:59:19.687308",
+  "blocked": [
+    "easycompans"
+  ],
+  "last_sync": "2026-07-01T14:59:33.521668",
   "_source": "remote"
 }
